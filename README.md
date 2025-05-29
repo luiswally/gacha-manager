@@ -1,2 +1,2 @@
 # gacha-manager
-gacha resource managers
+gacha resource manager web app
