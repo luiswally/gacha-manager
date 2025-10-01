@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "gacha manager backend live"}
+    return {"message": "gacha manager backend live, check rest of bones"}
